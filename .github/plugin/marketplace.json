@@ -1,0 +1,20 @@
+{
+  "name": "awesome-myh",
+  "metadata": {
+    "description": "Collection of Copilot plugins, agents, prompts, and skills",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "owner": {
+    "name": "Meng-Yuan Huang",
+    "email": "myh@live.com"
+  },
+  "plugins": [
+    {
+      "name": "github",
+      "source": "github",
+      "description": "A plugin for GitHub",
+      "version": "1.0.0"
+    }
+  ]
+}

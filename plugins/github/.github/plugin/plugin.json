@@ -1,0 +1,17 @@
+{
+  "name": "github",
+  "description": "A plugin for GitHub",
+  "version": "1.0.0",
+  "keywords": [
+    "github",
+    "skills"
+  ],
+  "author": {
+    "name": "Awesome Copilot Community"
+  },
+  "repository": "https://github.com/github/awesome-copilot",
+  "license": "MIT",
+  "skills": [
+    "./skills/github-fix-this/"
+  ]
+}
