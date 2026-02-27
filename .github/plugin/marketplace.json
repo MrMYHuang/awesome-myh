@@ -14,7 +14,7 @@
       "name": "github",
       "source": "github",
       "description": "A plugin for GitHub",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

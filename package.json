@@ -1,6 +1,6 @@
 {
   "name": "awesome-myh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Enhance your GitHub Copilot experience with community-contributed instructions, prompts, agents, and skills.",
   "main": "./eng/update-readme.js",
   "private": true,

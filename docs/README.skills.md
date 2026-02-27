@@ -3,7 +3,6 @@
 Agent Skills are self-contained folders with instructions and bundled resources that enhance AI capabilities for specialized tasks. Based on the [Agent Skills specification](https://agentskills.io/specification), each skill contains a `SKILL.md` file with detailed instructions that agents load on-demand.
 
 Skills differ from other primitives by supporting bundled assets (scripts, code samples, reference data) that agents can utilize when performing specialized tasks.
-
 ### How to Contribute
 
 See [CONTRIBUTING.md](../CONTRIBUTING.md#adding-skills) for guidelines on how to contribute new agent skills, improve existing ones, and share your use cases.
@@ -25,4 +24,6 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md#adding-skills) for guidelines on how to
 - Copy the skill folder to your local skills directory
 - Reference skills in your prompts or let the agent discover them automatically
 
-_No entries found yet._
+| Name | Description | Bundled Assets |
+| ---- | ----------- | -------------- |
+| [github-fix-this](../skills/github-fix-this/SKILL.md) | End-to-end GitHub fix workflow: given an issue description or issue number, create a fix branch from the current branch, implement the fix, push the branch, open a pull request, and report the issue and PR URLs. Use when users say "fix this", "fix issue #N", "fix this bug", or provide an issue description to resolve. | None |
