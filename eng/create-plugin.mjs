@@ -138,7 +138,7 @@ async function createPlugin() {
       version: "1.0.0",
       keywords,
       author: { name: "Awesome Copilot Community" },
-      repository: "https://github.com/github/awesome-copilot",
+      repository: "https://github.com/MrMYHuang/awesome-myh",
       license: "MIT",
     };
 
@@ -164,7 +164,7 @@ _Add your plugin contents here._
 
 ## Source
 
-This plugin is part of [Awesome Copilot](https://github.com/github/awesome-copilot).
+This plugin is part of [Awesome Copilot](https://github.com/MrMYHuang/awesome-myh).
 
 ## License
 

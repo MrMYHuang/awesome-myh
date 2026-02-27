@@ -72,7 +72,7 @@ function generateMarketplace() {
     name: "awesome-myh",
     metadata: {
       description: "Collection of Copilot plugins, agents, prompts, and skills",
-      version: "1.0.0",
+      version: "1.0.1",
       pluginRoot: "./plugins"
     },
     owner: {
